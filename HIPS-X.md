@@ -37,5 +37,4 @@ Test cases for an implementation are mandatory for HIPs that are affecting conse
 The implementations must be completed before any HIP is given status "Final", but it need not be completed before the HIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
 
 ## Copyright
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-Heavily Documented based on [ZEIPs](https://github.com/0xProject/ZEIPs)
+Heavily Documented based on [HIPS](https://github.com/hercone/hips)
